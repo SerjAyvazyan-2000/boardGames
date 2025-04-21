@@ -719,6 +719,9 @@
     .cookie-policy h1 {
         font-size: 1.6rem;
     }
+    .swiper-button-next, .swiper-button-prev::after{
+        display: none !important;
+    }
     .slider-section{
         padding: 0;
     }
